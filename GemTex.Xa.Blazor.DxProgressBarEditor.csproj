@@ -7,8 +7,8 @@
 	<AssemblyVersion>24.2.12.0</AssemblyVersion>
 	<Version>24.2.12.0</Version>
 	<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-	<RepositoryUrl>https://github.com/farzadjalalimajd/AvTex.XA.Blazor.DxProgressBarEditor</RepositoryUrl>
-	<Title>ExpressApp Blazor DxProgressBarPropertyEditor</Title>
+	<RepositoryUrl>https://github.com/farzadjalalimajd/GemTex.Xa.Blazor.DxProgressBarEditor</RepositoryUrl>
+	<Title>ExpressApp Blazor DxProgressBarEditor</Title>
 	<Authors>Farzad Jalali Majd</Authors>
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
